@@ -23,7 +23,7 @@ Oracle Apps R12 Technical Consultant | Oracle SQL | PL/SQL | Workflow | BI Publi
 - 🌱 Learning Python Automation, AI Integration & Oracle Cloud
 - 💬 Ask me about Oracle SQL, PL/SQL, Workflow, BI Publisher
 - ⚡ Passionate about Database Performance & Automation
-- 📫 Reach me at **YOUR_EMAIL**
+- 📫 Reach me at **harshraj.techwork@gmail.com**
 
 ---
 
