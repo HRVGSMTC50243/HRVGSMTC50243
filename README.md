@@ -182,7 +182,7 @@ Oracle Apps R12 Technical Consultant | Oracle SQL | PL/SQL | Workflow | BI Publi
 
 ## 💡 Quote
 
-> **"First, solve the problem. Then, write the code."**
+> **"THE WINNER TAKES IT ALL 🏆."**
 
 ---
 
